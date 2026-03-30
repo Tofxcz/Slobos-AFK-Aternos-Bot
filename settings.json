@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tix_smp.aternos.me:59354",
-    "port": 59354 ,
+    "ip": "Tix_smp.aternos.me",
+    "port": 59354,
     "version": "",
     "try-creative": true
   },
