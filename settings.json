@@ -9,7 +9,7 @@
     "ip": "Tix_smp.aternos.me",
     "port": 59354,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -30,10 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        !"
       ]
     },
     "chat-log": true,
